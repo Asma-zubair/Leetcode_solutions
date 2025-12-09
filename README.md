@@ -12,6 +12,7 @@ This structure keeps each problem organized, simple, and easy to navigate.
 ---
 
 ## 📂 Repository Structure Example
+
 ```
 leetcode-solutions/
 │
@@ -25,7 +26,6 @@ leetcode-solutions/
 │
 └── README.md # (this file)
 ```
-
 
 ## ✔ Purpose
 
