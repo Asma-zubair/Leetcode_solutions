@@ -12,6 +12,7 @@ This structure keeps each problem organized, simple, and easy to navigate.
 ---
 
 ## 📂 Repository Structure Example
+```
 leetcode-solutions/
 │
 ├── 3583-count-special-triplets/
@@ -23,6 +24,7 @@ leetcode-solutions/
 │ └── solution.py
 │
 └── README.md # (this file)
+```
 
 
 ## ✔ Purpose
