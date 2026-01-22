@@ -10,7 +10,8 @@ class Solution:
         for r in ransomNote:
             if r not in hashmap or hashmap[r]==0:
                 return False
-            hashmap[r]-=1
+            else:
+                hashmap[r]-=1
         return True
         
 
