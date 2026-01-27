@@ -3,6 +3,8 @@ class Solution:
         word=s.split()
         d1={}
         d2={}
+        if len(pattern)!=len(word):
+            return False
         for i in range(len(pattern)):
                 if pattern[i] in d1 and d1[pattern[i]]!=word[i]:
                     return False
