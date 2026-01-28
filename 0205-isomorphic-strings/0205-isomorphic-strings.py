@@ -12,4 +12,3 @@ class Solution:
             actual[s[i]] = t[i]
             made[t[i]] = s[i]
          return True
-        
