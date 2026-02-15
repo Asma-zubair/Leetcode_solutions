@@ -7,4 +7,4 @@ class Solution:
         sum_int = a_int + b_int
         
         # Convert the sum back to a binary string
-        return bin(sum_int)[2:] 
+        return bin(sum_int)[2:]
