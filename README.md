@@ -58,8 +58,17 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
