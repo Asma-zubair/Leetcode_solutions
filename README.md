@@ -60,6 +60,7 @@ GitHub: https://github.com/Asma-zubair
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0038-count-and-say](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0038-count-and-say/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
