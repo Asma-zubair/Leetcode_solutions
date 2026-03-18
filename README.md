@@ -76,6 +76,7 @@ GitHub: https://github.com/Asma-zubair
 | [0031-next-permutation](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +106,12 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
