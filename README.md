@@ -130,4 +130,12 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
