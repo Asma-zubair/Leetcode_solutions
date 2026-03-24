@@ -62,6 +62,7 @@ GitHub: https://github.com/Asma-zubair
 | [0005-longest-palindromic-substring](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0038-count-and-say](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0038-count-and-say/) | Medium |
+| [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ GitHub: https://github.com/Asma-zubair
 | [0031-next-permutation](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +141,8 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
