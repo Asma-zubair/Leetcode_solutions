@@ -76,6 +76,7 @@ GitHub: https://github.com/Asma-zubair
 | [0014-longest-common-prefix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -145,4 +146,8 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
