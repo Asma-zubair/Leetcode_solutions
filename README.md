@@ -64,6 +64,7 @@ GitHub: https://github.com/Asma-zubair
 | [0038-count-and-say](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ GitHub: https://github.com/Asma-zubair
 | [0046-permutations](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@ GitHub: https://github.com/Asma-zubair
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +155,5 @@ GitHub: https://github.com/Asma-zubair
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0046-permutations/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
