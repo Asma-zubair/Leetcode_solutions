@@ -114,6 +114,7 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0868-binary-gap](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0868-binary-gap/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
