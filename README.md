@@ -82,6 +82,7 @@ GitHub: https://github.com/Asma-zubair
 | [0046-permutations](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0137-single-number-ii](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0137-single-number-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0137-single-number-ii](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0868-binary-gap](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0868-binary-gap/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
