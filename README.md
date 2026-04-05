@@ -64,6 +64,7 @@ GitHub: https://github.com/Asma-zubair
 | [0038-count-and-say](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
