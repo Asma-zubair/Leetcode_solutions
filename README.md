@@ -61,6 +61,7 @@ GitHub: https://github.com/Asma-zubair
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
@@ -96,6 +97,7 @@ GitHub: https://github.com/Asma-zubair
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
 ## Monotonic Stack
