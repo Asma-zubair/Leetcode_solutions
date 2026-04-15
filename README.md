@@ -67,6 +67,7 @@ GitHub: https://github.com/Asma-zubair
 | [0071-simplify-path](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ GitHub: https://github.com/Asma-zubair
 | [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0137-single-number-ii](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0137-single-number-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
