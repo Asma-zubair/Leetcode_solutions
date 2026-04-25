@@ -89,6 +89,7 @@ GitHub: https://github.com/Asma-zubair
 | [0137-single-number-ii](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0137-single-number-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ GitHub: https://github.com/Asma-zubair
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ GitHub: https://github.com/Asma-zubair
 | [0001-two-sum](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
