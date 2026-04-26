@@ -81,6 +81,7 @@ GitHub: https://github.com/Asma-zubair
 | [0031-next-permutation](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0046-permutations/) | Medium |
@@ -114,6 +115,7 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -130,6 +132,7 @@ GitHub: https://github.com/Asma-zubair
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
