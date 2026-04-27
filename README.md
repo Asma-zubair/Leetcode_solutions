@@ -77,6 +77,7 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -98,6 +99,7 @@ GitHub: https://github.com/Asma-zubair
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -173,4 +175,8 @@ GitHub: https://github.com/Asma-zubair
 | [0039-combination-sum](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0046-permutations/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
