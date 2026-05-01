@@ -73,6 +73,7 @@ GitHub: https://github.com/Asma-zubair
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0396-rotate-function](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0396-rotate-function/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ GitHub: https://github.com/Asma-zubair
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0137-single-number-ii](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0396-rotate-function](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0396-rotate-function/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -125,6 +127,7 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0396-rotate-function](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0396-rotate-function/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
