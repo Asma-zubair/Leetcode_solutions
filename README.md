@@ -66,6 +66,7 @@ GitHub: https://github.com/Asma-zubair
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0796-rotate-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Dynamic Programming
@@ -182,4 +183,8 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
