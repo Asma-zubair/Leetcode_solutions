@@ -88,6 +88,7 @@ GitHub: https://github.com/Asma-zubair
 | [0039-combination-sum](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0137-single-number-ii](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0137-single-number-ii/) | Medium |
@@ -128,6 +129,7 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0048-rotate-image](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0396-rotate-function/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
