@@ -128,6 +128,7 @@ GitHub: https://github.com/Asma-zubair
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0029-divide-two-integers](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0396-rotate-function/) | Medium |
@@ -167,10 +168,12 @@ GitHub: https://github.com/Asma-zubair
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
