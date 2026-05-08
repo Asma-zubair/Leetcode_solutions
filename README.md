@@ -129,6 +129,7 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0396-rotate-function/) | Medium |
