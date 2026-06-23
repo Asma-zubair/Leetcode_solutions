@@ -55,6 +55,7 @@ GitHub: https://github.com/Asma-zubair
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0016-3sum-closest](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 ## String
@@ -63,6 +64,7 @@ GitHub: https://github.com/Asma-zubair
 | [0005-longest-palindromic-substring](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0071-simplify-path/) | Medium |
@@ -196,5 +198,6 @@ GitHub: https://github.com/Asma-zubair
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
