@@ -55,6 +55,7 @@ GitHub: https://github.com/Asma-zubair
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0016-3sum-closest](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -174,6 +175,7 @@ GitHub: https://github.com/Asma-zubair
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Asma-zubair/Leetcode_solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
